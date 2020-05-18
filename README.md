@@ -1,4 +1,4 @@
-# MERS - Mittelerde Rollenspiel 1995
+# MERS - Mittelerde-Rollenspiel 1995
 https://de.wikipedia.org/wiki/MERS_(Rollenspiel)
 
 MERS Charakterblatt für MS EXCEL 2019
